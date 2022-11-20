@@ -8,3 +8,12 @@ UNSW-NB15 - CSV Files/UNSW-NB15_4.csv
 UNSW-NB15 - CSV Files/UNSW-NB15_LIST_EVENTS.csv
 UNSW-NB15 - CSV Files/a part of training and testing set/UNSW_NB15_testing-set.csv
 UNSW-NB15 - CSV Files/a part of training and testing set/UNSW_NB15_training-set.csv
+npy_file/X_dev.npy
+npy_file/X_test.npy
+npy_file/X_train.npy
+npy_file/Y_dev_bin.npy
+npy_file/Y_dev_mul.npy
+npy_file/Y_test_bin.npy
+npy_file/Y_test_mul.npy
+npy_file/Y_train_bin.npy
+npy_file/Y_train_mul.npy
